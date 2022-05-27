@@ -1,0 +1,2 @@
+a="mary"
+print (a)
